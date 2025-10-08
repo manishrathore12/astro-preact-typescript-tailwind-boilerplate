@@ -3,6 +3,7 @@
   "description": "A boilerplate built with Astro, Preact, TypeScript and Tailwind CSS",
   "version": "1.0.0",
   "type": "module",
+  "license": "MIT",
   "author": "Tsuki Akiba <erase2004@gmail.com>",
   "scripts": {
     "dev": "astro dev",
